@@ -1,0 +1,11 @@
+// Delete two of the following three lines, leaving only the true statement and fill in the blanks.
+
+1) I've completed this lab by myself entirely.
+
+//	Place your attributions below:
+
+Old Office Props Free from Unity Asset Store
+https://assetstore.unity.com/packages/3d/props/interior/old-office-props-free-53735
+
+Poly City - Free Cartoon Pack from Unity Asset Store
+https://assetstore.unity.com/packages/3d/poly-city-free-cartoon-pack-95242 

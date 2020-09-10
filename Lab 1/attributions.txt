@@ -1,0 +1,27 @@
+// Delete two of the following three lines, leaving only the true statement and fill in the blanks.
+
+2) I've recieved verbal/minor help from online sources (listed below).
+
+//	Place your attributions below:
+//  Simple jump script
+//  https://answers.unity.com/questions/1020197/can-someone-help-me-make-a-simple-jump-script.html
+//  
+//  Timer Tutorial
+//  https://www.youtube.com/watch?v=x-C95TuQtf0
+//
+//  Grass Texture
+//  https://assetstore.unity.com/packages/2d/textures-materials/floors/easy-grass-substance-82272
+//
+//  Stone Textures  
+//  https://assetstore.unity.com/packages/2d/textures-materials/mmg-randomten-free-31350
+//
+//	Example:
+//
+//	Toy Balloonship by NV3D licenced under Unity-EULA
+//	https://www.assetstore.unity3d.com/en/#!/content/370
+//	https://unity3d.com/legal/as_terms
+//
+//  MinBy() by Jon Skeet Licenced under CC-by-SA
+//	http://stackoverflow.com/questions/914109/how-to-use-linq-to-select-object-with-minimum-or-maximum-property-value
+//	https://stackoverflow.blog/2009/06/attribution-required/
+
